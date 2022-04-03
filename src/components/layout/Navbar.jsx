@@ -5,7 +5,7 @@ class Navbar extends Component {
     return (
       <nav className="navbar bg-primary">
         <i className="fa-brands fa-github" />
-        <a>Github Finder</a>
+        <a href="/">Github Finder</a>
       </nav>
     );
   }
